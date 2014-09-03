@@ -6,6 +6,8 @@ Implementation guide for proper Google Tag Manager pagetype code. In advance of 
 ## Background
 Google Tag Manager is a free tool that eliminates tedious code-editing tasks for your website. For tracking pagetypes the Google Tag Manager additional information about the page. This is done by using the Data Layer.
 
+The pagetype value can be used for multiple purposes. For instance it can be set for Content Grouping within Google Analytics, for setting up affiliates, and setting up rules to fire on within the Google Tag Manager interface.
+
 This value needs to be available on all pages of the website and is always placed above the Google Tag Manager container code. The basic syntax for setting an event, then, is as follows:
 
 ```html
