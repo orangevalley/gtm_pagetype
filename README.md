@@ -38,4 +38,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-XXXXX');</script>
 <!-- End Google Tag Manager -->
 
+## Change History
 
+* 1 (September 3 - 2014): Initial release of standardised Google Tag Manager pagetype code
