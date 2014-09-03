@@ -1,4 +1,4 @@
-Guide on how to set the pagetype for Google Tag Manager
+Google Tag Manager pagetype code
 =================================
 
 Implementation guide for proper Google Tag Manager pagetype code. In advance of implementing the Google Tag Manager pagetype code you should check if 1. the [Google Tag Manager container code](https://github.com/orangevalley/GTM_standard) is working properly and 2. you have received an instruction document from you Orangevalley point of contact regarding the preferred parameter values. When referred to Google Tag Manager pagetype code you should use the script within GTM_pagetypeScript.js.
