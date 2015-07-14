@@ -20,7 +20,7 @@ This value needs to be available on all pages of the website and is always place
 | Property       | Example   | Description                                                     | Required |
 | -------------- | --------- |---------------------------------------------------------------- | -------- |
 | pagetype          | pagetype     | Fixed value                                                     | Yes      |
-| pagetype_name     | home    | <ul><li>Home</li><li>Category</li><li>Product</li><li>Cart</li><li>Checkout</li><li>Purchase</li><li>Siteview</li> | Yes      |
+| pagetype_name     | home    | <ul><li>Home</li><li>Category</li><li>Product</li><li>Cart</li><li>Checkout</li><li>Purchase</li><li>Siteview (all other pages)</li> | Yes      |
 
 
 ####Example
